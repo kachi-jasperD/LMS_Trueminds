@@ -2,7 +2,7 @@ How to Run the Project
 
 1. Clone the Repository
    git clone https://github.com/kachi-jasperD/LMS_Trueminds.git
-   cd TRUEMINS_LMS
+   cd TRUEMINDS_LMS
 
 2. Install Dependencies
    npm install
